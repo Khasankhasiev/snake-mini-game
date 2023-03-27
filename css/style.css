@@ -1,0 +1,14 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+.table {
+    text-align: center;
+}
+
+.btn {
+    display: block; 
+    margin: 10px auto;
+}
